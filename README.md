@@ -1,2 +1,2 @@
-# tg
-tg demo repo
+# TG
+TG demo repo. 
